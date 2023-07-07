@@ -8,7 +8,11 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
+<<<<<<< HEAD
+| 0: Authors/README File | [AUTHOR](https://github.com/kingkelv20/AirBnB_clone_v2/blob/master/AUTHOR) | Project author |
+=======
 | 0: Authors/README File | [AUTHORS](https://github.com/justinmajetich/AirBnB_clone/blob/dev/AUTHORS) | Project authors |
+>>>>>>> 3d9241a1b6a3888dff8f1fdf98188fd46e7af2e1
 | 1: Pep8 | N/A | All code is pep8 compliant|
 | 2: Unit Testing | [/tests](https://github.com/justinmajetich/AirBnB_clone/tree/dev/tests) | All class-defining modules are unittested |
 | 3. Make BaseModel | [/models/base_model.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/base_model.py) | Defines a parent class to be inherited by all model classes|
